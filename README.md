@@ -69,7 +69,8 @@ else:
 
 # Output : 
 
-![Uploading image.png…]()
+<img width="628" height="249" alt="image" src="https://github.com/user-attachments/assets/63f29e13-5da6-49a7-8774-cb8abd5e1620" />
+
 
 
 # Results
